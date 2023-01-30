@@ -10,3 +10,16 @@ header{
 
 }
    
+h5{
+    color: grey;
+}
+h6{
+    color: grey;
+}
+span{
+    color: aqua;
+}
+#lorem{
+    background-color: yellow;
+    color: black;
+}
